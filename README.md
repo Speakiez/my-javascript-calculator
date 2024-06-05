@@ -1,5 +1,5 @@
 # My Javascript Calculator
-A simple Javascript Calculator
+A simple 3D Javascript Calculator
 
 Libraries and Frameworks used: Three.js
 
